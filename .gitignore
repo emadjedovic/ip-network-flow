@@ -1,0 +1,13 @@
+*.aux
+*.log
+*.out
+*.toc
+*.synctex
+*.synctex.gz
+*.txt
+*.tex
+*.nav
+*.snm
+*.blg
+*.vrb
+slike
